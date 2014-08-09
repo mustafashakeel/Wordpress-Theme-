@@ -51,6 +51,11 @@
 				</nav><!-- #site-navigation -->
 			</div><!-- #site-navigation-inner -->
 		</div><!-- #site-navigation-wrap -->
+		<div id=Socialmedia">
+		
+		<li>facebook</li>
+		<li>Twitter</li>
+		</div>
 
 		<div class="site-main-wrap clr">
 			<div id="main" class="site-main clr container">
